@@ -1,2 +1,3 @@
 # WarehouseWreckage_Game
-A physics-based warehouse destruction game built in Unreal Engine using Blueprints, featuring projectile mechanics and dynamic wreckage.
+This project is a physics-based warehouse simulation game focused on destructible objects. 
+The core mechanic involves launching projectiles to trigger realistic collisions and wreckage, showcasing Unreal Engine’s physics system and Blueprint scripting.
